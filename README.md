@@ -50,16 +50,12 @@
 - 💳 Payment Integration  
 - ⚡ Built using MERN Stack  
 
-👉 [Live Demo](#) | [GitHub Repo](#)
-
 ---
 
 ### 📝 BlogSphere – Blogging Platform
 - ✍️ Create, Read, Update, Delete (CRUD) Blogs  
 - 🔐 User Authentication  
 - 🧑‍💻 Clean UI & responsive design  
-
-👉 [Live Demo](#) | [GitHub Repo](#)
 
 ---
 
