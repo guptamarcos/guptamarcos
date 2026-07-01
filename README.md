@@ -12,7 +12,7 @@
 ## 🧑‍💻 About Me
 
 - 💻 MERN Stack Developer passionate about building real-world applications  
-- 📈 Solved **500+ DSA problems** (LeetCode & others)  
+- 📈 Solved **350+ DSA problems** ( Across platfroms )  
 - 🚀 Currently improving **Full Stack + System Design**  
 - 🔥 Building projects in public & documenting my journey  
 
