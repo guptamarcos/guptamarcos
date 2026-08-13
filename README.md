@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gauri Shankar</h1>
 
 <h3 align="center">
-🚀 Backend-Focused Full Stack Developer | Python • FastAPI • React • TypeScript
+🚀 Backend-Focused Full Stack GenAI Developer | Python • FastAPI • React • TypeScript • LangChain
 </h3>
 
 <p align="center">
@@ -14,12 +14,14 @@
 
 # 👨‍💻 About Me
 
-- 💻 Backend-focused Full Stack Developer passionate about building scalable web applications.
-- 🚀 Currently learning **Python, FastAPI, TypeScript, MySQL, Docker, and System Design.**
-- 📈 Solved **350+ DSA problems** across multiple coding platforms.
-- 🛠️ Love building real-world, production-ready applications.
-- 🌱 Always learning new technologies and improving problem-solving skills.
-- 🎯 Goal: Become a Software Engineer specializing in Backend & Full Stack Development.
+* 💻 Backend-focused Full Stack GenAI Developer passionate about building scalable and intelligent applications.
+* 🚀 Experienced in building **full-stack web applications and AI-powered applications**.
+* 🤖 Currently focusing on **Generative AI, LangChain, RAG, LLM applications, and AI Agents**.
+* ⚡ Building backend systems using **Python, FastAPI, Node.js, and Express.js**.
+* 🌐 Building modern frontend applications using **React, TypeScript, JavaScript, and Tailwind CSS**.
+* 🛠️ Love building real-world, production-ready applications.
+* 🌱 Always learning new technologies and improving engineering skills.
+* 🎯 Goal: Become a Software Engineer specializing in **Backend, Full Stack Development, and Generative AI**.
 
 ---
 
@@ -37,16 +39,20 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" />
 </p>
 
+## 🤖 AI / GenAI
+
+**LangChain** • **LLMs** • **RAG** • **AI Agents** • **Prompt Engineering** • **Embeddings** • **Vector Databases** • **Google Gemini**
+
 ## 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## ☁️ DevOps & Tools
+## 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,redis" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
@@ -55,73 +61,92 @@
 
 ## 🛍️ Trendora — Full Stack E-Commerce Platform
 
-### Features
-
-- 🔐 JWT Authentication & Authorization
-- 🛒 Shopping Cart & Wishlist
-- 💳 Secure Payment Integration
-- 📦 Order Management
-- 📷 Cloudinary Image Upload
-- 🔍 Product Search & Filtering
-- 📱 Fully Responsive Design
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB`
-
----
-
-## 📝 BlogSphere — Blogging Platform
+A full-stack e-commerce application focused on secure authentication, product management, shopping workflows, and payment integration.
 
 ### Features
 
-- ✍️ Create, Update & Delete Blogs
-- 🔐 Secure User Authentication
-- ❤️ Like & Comment System
-- 📂 Category Filtering
-- 📱 Responsive UI
+* 🔐 JWT Authentication & Authorization
+* 🛒 Shopping Cart & Wishlist
+* 💳 Secure Payment Integration
+* 📦 Order Management
+* 📷 Cloudinary Image Upload
+* 🔍 Product Search & Filtering
+* 📱 Fully Responsive Design
 
 **Tech Stack**
 
-`React` `Node.js` `Express.js` `MongoDB`
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary`
 
 ---
 
-## 🚧 Currently Building
+## 📚 DocMind AI — AI-Powered PDF Assistant
 
-- 📚 Learning Management System
-- 💬 Real-Time Chat Application
-- 💰 Expense Tracker
-- 📦 Inventory Management System
-- 🤖 AI-Powered SaaS Application (FastAPI)
+An AI-powered document assistant that allows users to upload PDFs and interact with their documents using a **Retrieval-Augmented Generation (RAG)** pipeline.
+
+### Features
+
+* 📄 Upload and manage PDF documents
+* 💬 Chat with uploaded PDFs
+* 🧠 Retrieval-Augmented Generation (RAG)
+* 🔍 MMR-based document retrieval
+* 🔢 Document embeddings with ChromaDB
+* 🤖 Google Gemini LLM integration
+* 📌 Persistent chat history
+* ⭐ Star important PDFs and conversations
+* 🔐 JWT Authentication with HTTP-only cookies
+* 📊 Dashboard with PDF and chat statistics
+* 🛡️ File size, MIME-type, page, and request validation
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `FastAPI` `MongoDB` `LangChain` `Gemini` `ChromaDB` `PyMuPDF`
+
+---
+
+## 🎥 TubeGPT — AI YouTube Video Summarizer
+
+An AI-powered application that transforms YouTube videos into concise, structured summaries using transcripts, LangChain, and Google Gemini.
+
+### Features
+
+* 🔗 YouTube URL-based summarization
+* 📝 Automatic transcript extraction
+* ✂️ Transcript chunking for long videos
+* 🤖 AI-powered summarization using Google Gemini
+* 🔗 LangChain-based processing pipeline
+* 📑 Structured summaries with headings and bullet points
+* ⚡ FastAPI backend
+* 📱 Responsive React interface
+* 🚨 Loading and error handling
+
+**Tech Stack**
+
+`React` `FastAPI` `LangChain` `Google Gemini` `YouTube Transcript API` `Tailwind CSS`
+
+---
+
+# 🚧 Currently Improving & Building
+
+## 🔧 Improving Existing Projects
+
+* 📚 **DocMind AI** — Improving the RAG pipeline, retrieval quality, authorization, scalability, and production architecture.
+* 🎥 **TubeGPT** — Improving summarization quality and expanding AI-powered learning features.
+
+## 🏗️ Currently Building
+
+* 🗄️ **AI SQL Assistant** — Building an AI-powered application that allows users to interact with databases using natural language, generate SQL queries, execute queries, and understand database results using LLMs.
 
 ---
 
 # 📚 Currently Learning
 
-- 🐍 Advanced Python
-- ⚡ FastAPI
-- 🔷 TypeScript
-- 🗄️ MySQL
-- 🐳 Docker
-- ⚙️ Redis
-- 🏗️ System Design
-- 📊 Database Optimization
-
----
-
-# 🧠 DSA Journey
-
-- ✅ **350+ Problems Solved**
-- 📌 Arrays
-- 📌 Strings
-- 📌 Linked Lists
-- 📌 Stack & Queue
-- 📌 Trees
-- 📌 Graphs
-- 📌 Dynamic Programming
-- 📌 Greedy Algorithms
-- 📌 Recursion & Backtracking
+* 🐍 Advanced Python
+* ⚡ FastAPI
+* 🔷 TypeScript
+* 🔗 LangChain
+* 🤖 AI Agents
+* 🏗️ System Design
+* 📊 Database Optimization
 
 ---
 
@@ -141,7 +166,7 @@
 
 ---
 
-# 🏆 GitHub Activity
+# 🏆 GitHub Activity & Consistency
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guptamarcos&theme=tokyo-night&hide_border=true" />
@@ -151,10 +176,13 @@
 
 # 🏅 Achievements
 
-- 🧩 Solved **350+ DSA Problems**
-- 🚀 Built Multiple Full Stack Projects
-- 📚 Consistently Learning Modern Backend Technologies
-- 💡 Exploring System Design & Scalable Architectures
+* 🚀 Built Multiple Full Stack Projects
+* 🤖 Built AI-powered applications using **LangChain and Gemini**
+* 📚 Consistently Learning Modern Backend & GenAI Technologies
+* 🧠 Built **RAG-based document question-answering systems**
+* 🎥 Built an **AI-powered YouTube summarization application**
+* 💡 Exploring System Design & Scalable Architectures
+* 🛠️ Building production-oriented backend systems and AI applications
 
 ---
 
